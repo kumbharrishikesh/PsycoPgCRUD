@@ -1,0 +1,5 @@
+user = "postgres"
+password = "Postgres@123”"
+database = "pydev"
+host = "localhost"
+port = "5432"
